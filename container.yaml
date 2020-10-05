@@ -1,0 +1,10 @@
+---
+platforms:
+  only:
+  - x86_64
+
+remote_source:
+    repo: https://github.com/rh-messaging-qe/yacfg.git
+    ref: 78522019c84388eb7b88801f888018d211a69aa2
+
+image_build_method: imagebuilder
